@@ -1,0 +1,4 @@
+This repo contains template code that helps to create workspace using project
+specific docker infrastructure image. Which is useful for testing changes locally. 
+Also helps whenever the changes are pushed to remote automatic build gets triggered 
+in jenkins with input definition from jenkins file.
